@@ -28,3 +28,7 @@ sayHi('Asma');
 
 this is a **bold text** but this one is *italic*.
 this is a ***bold and italic text***
+```kotlin
+fun say__hi() {
+  println("hi you all")
+  }
